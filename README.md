@@ -1,6 +1,6 @@
 # Adigebu
 
-Alat Deteksi Dini Gempa Bumi (Adigebu) Berbasis IoT
+Interface untuk Alat Deteksi Dini Gempa Bumi (Adigebu) Berbasis IoT
 
 ## Getting Started
 
