@@ -1,16 +1,12 @@
-# adigebu
+# Adigebu
 
-A new Flutter project.
+Alat Deteksi Dini Gempa Bumi (Adigebu) Berbasis IoT
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Repositori ini berisi aplikasi yang berguna untuk memonitor node-mcu yang sudah diprogram sebelumnya.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Fitur
+- Dashboard
+- Riwayat
+- Panduan
